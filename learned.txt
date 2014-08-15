@@ -1,4 +1,4 @@
 learn
 from exercise
 texting
-
+new line added to complete exercise 2a
