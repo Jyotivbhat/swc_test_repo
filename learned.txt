@@ -5,3 +5,5 @@ texting
 new line added to complete exercise 2a
 completed 2a 
 now starting exercise 2b
+completed 2b
+now startign exercise 2c
